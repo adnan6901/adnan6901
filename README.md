@@ -52,6 +52,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://i.imgur.com/8kqN8jY.gif" width="600" alt="Thanks for visiting" />
-</p>
+<div class="Gif" style="width: 424px; height: 236.691px;"><img src="https://media1.tenor.com/m/hp3yzLDp6d8AAAAC/makise-kurise-steins-gate.gif" width="424" height="236.69076305220884" alt="a girl with red hair wearing headphones looks serious" fetchpriority="high" style="max-width: 424px;"></div>
