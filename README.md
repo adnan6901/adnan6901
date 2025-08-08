@@ -35,10 +35,12 @@
 
 ---
 
-<h2 align="center">Discord Status</h2>
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/1282594919499829248?theme=dark&bg=0d1117&borderRadius=12px" alt="Discord Status" />
+  <a href="https://discord.com/users/1282594919499829248" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Connect-blue?logo=discord&logoColor=white" alt="Discord" />
+  </a>
 </p>
+
 
 
 ---
