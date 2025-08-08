@@ -14,12 +14,10 @@
   <img src="https://media.tenor.com/1vkLQoel5hQAAAAd/coding-anime.gif" width="200" alt="Coding Anime" />
 </p>
 <p align="center">
-  👨‍💻 Diving into JavaScript<br>
-  🎮 Obsessed with rhythm & shooting games<br>
-  📺 Anime is life<br>
-  🎯 Building skills one commit at a time
+  Learning JavaScript.<br>
+  Love anime and games.<br>
+  Just trying to get better every day.
 </p>
-
 ---
 
 <h2 align="center">Skills & Tools</h2>
