@@ -38,7 +38,13 @@
 
 <p align="center">
   <a href="https://discord.com/users/1282594919499829248" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Connect-blue?logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-Connect-blue?logo=discord&logoColor=white&style=flat" alt="Discord" />
+  </a>
+  <a href="https://www.instagram.com/adnanhasan.jp/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/adnan.965901" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=flat" alt="Facebook" />
   </a>
 </p>
 
