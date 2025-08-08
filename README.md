@@ -1,7 +1,5 @@
-<!-- Adnan's GitHub Profile README -->
-
 <p align="center">
-  <img src="https://media.tenor.com/epP3yEBRYdkAAAAd/kakashi-welcome.gif" alt="Welcome Kakashi GIF" width="600" />
+  <img src="https://media1.tenor.com/m/CBxyvlf0CMoAAAAC/welcome-anime.gif" width="424" height="232" alt="Welcome Anime GIF" />
 </p>
 
 <h1 align="center">Welcome to Adnan's Space</h1>
