@@ -37,7 +37,7 @@
 
 <h2 align="center">Discord Status</h2>
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/your_discord_id_here?theme=dark&bg=0d1117&borderRadius=12px" alt="Discord Status" />
+  <img src="https://lanyard.cnrad.dev/api/yamori_iz?theme=dark&bg=0d1117&borderRadius=12px" alt="Discord Status" />
 </p>
 
 ---
