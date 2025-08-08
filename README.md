@@ -52,4 +52,6 @@
 
 ---
 
-<div class="Gif" style="width: 424px; height: 236.691px;"><img src="https://media1.tenor.com/m/hp3yzLDp6d8AAAAC/makise-kurise-steins-gate.gif" width="424" height="236.69076305220884" alt="a girl with red hair wearing headphones looks serious" fetchpriority="high" style="max-width: 424px;"></div>
+<div align="center" style="width: 424px; height: 236.7px;">
+  <img src="https://media1.tenor.com/m/hp3yzLDp6d8AAAAC/makise-kurise-steins-gate.gif" width="424" height="236.7" alt="a girl with red hair wearing headphones looks serious" />
+</div>
