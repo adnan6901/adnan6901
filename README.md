@@ -29,8 +29,9 @@
 
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adnan&show_icons=true&theme=radical" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adnan&layout=compact&theme=radical" width="330" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adnan&show_icons=true&hide_border=true&theme=transparent" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adnan&layout=compact&hide_border=true&theme=transparent" width="330" />
+
 </p>
 
 ---
