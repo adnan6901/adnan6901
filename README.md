@@ -1,7 +1,7 @@
 <!-- Adnan's GitHub Profile README -->
 
 <p align="center">
-  <img src="https://i.imgur.com/q6LxYaj.gif" width="600" alt="Welcome GIF - glitch style" />
+  <img src="https://tenor.com/view/welcome-anime-kakashi-naruto-discord-gif-22888943" width="600" alt="Welcome GIF - glitch style" />
 </p>
 
 <h1 align="center">Welcome to Adnan's Space</h1>
