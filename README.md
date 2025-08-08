@@ -36,15 +36,15 @@
 
 ---
 
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; gap: 10px;">
   <a href="https://discord.com/users/1282594919499829248" target="_blank">
-    <img align="left" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg" alt="Discord" width="21px" />
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg" alt="Discord" width="21px" />
   </a>
   <a href="https://www.instagram.com/adnanhasan.jp/" target="_blank">
-    <img align="left" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" alt="Instagram" width="21px" />
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" alt="Instagram" width="21px" />
   </a>
   <a href="https://www.facebook.com/adnan.965901" target="_blank">
-    <img align="left" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg" alt="Facebook" width="21px" />
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg" alt="Facebook" width="21px" />
   </a>
 </p>
 
