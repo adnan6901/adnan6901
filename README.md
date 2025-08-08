@@ -1,12 +1,12 @@
 <!-- Adnan's GitHub Profile README -->
 
 <p align="center">
-  <img src="https://tenor.com/view/welcome-anime-kakashi-naruto-discord-gif-22888943" width="600" alt="Welcome GIF - glitch style" />
+  <img src="https://media.tenor.com/epP3yEBRYdkAAAAd/kakashi-welcome.gif" alt="Welcome Kakashi GIF" width="600" />
 </p>
 
 <h1 align="center">Welcome to Adnan's Space</h1>
 <p align="center">
-  New to coding | JavaScript learner | Anime & gaming fan
+  JavaScript beginner • Anime & gaming fan
 </p>
 
 ---
